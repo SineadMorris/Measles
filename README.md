@@ -6,6 +6,6 @@ output: html_document
 
 ## Background
 
-This is repository will hold data of seasonal influenza epidemics in Norway, Sweden, and Denmark upon publication of: 
+This is repository will hold virological and immunological data of measles infection upon publication of: 
 
 S.E. Morris et al. (*submitted*) 'Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance'.
