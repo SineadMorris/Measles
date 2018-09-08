@@ -1,9 +1,3 @@
----
-title: "Within-host modeling of measles virus"
-output: html_document
----
-
-
 ## Background
 
 This repository will hold virological and immunological data of measles infection upon publication of: 
