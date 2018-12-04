@@ -1,11 +1,5 @@
 ## Background
 
-This repository will hold virological and immunological data of measles infection upon publication of: 
+This repository holds virological and immunological data of measles infection used inthe following publication: 
 
-S.E. Morris et al. (*submitted*) 'Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance'.
-
-
-## Files
-
-1. `Data.RData` contains the individual virological and immunological data used in the paper.
-2. `Parameters.RData` contains estimated and fixed parameter values for the best-fitting target cell and T cell model.
+S.E. Morris et al. (2018) 'Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance'. PLoS Pathogens.
